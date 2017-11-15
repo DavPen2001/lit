@@ -8,7 +8,7 @@ body {
 }
 p {
     font-family: Bank;
-    src: url(BankGothicBold.TTF);
+    src: url(BankGothic Bold.ttf);
     font-weight:400;
     color: white;
     font-size: 75px; 
@@ -24,7 +24,7 @@ ul {
 li {
     float: left;
     font-family: Bank;
-    src: url(BankGothicBold.TTF);
+    src: url(BankGothic Bold.ttf);
     font-size: 30px;
 }
 li a {
@@ -46,18 +46,18 @@ li a:hover {
         min-height: 300px;
         margin-bottom: 20px;
         font-family: Bank;
-        src: url(BankGothicBold.TTF);
+        src: url(BankGothic Bold.ttf);
 }
 h3 {
    font-family: Bank;
-    src: url(BankGothicBold.TTF);
+    src: url(BankGothic Bold.ttf);
     font-weight:400;
     color: white;
     font-size: 40px;      
 }
 h2 {
    font-family: Bank;
-    src: url(BankGothicBold.TTF);
+    src: url(BankGothic Bold.ttf);
     font-weight:400;
     color: white;
     font-size: 40px;  
@@ -65,21 +65,21 @@ h2 {
 }
 h1 {
    font-family: Bank;
-    src: url(BankGothicBold.TTF);
+    src: url(BankGothic Bold.ttf);
     font-weight:400;
     color: white;
     font-size: 40px;      
 }
 h4 {
    font-family: Bank;
-    src: url(BankGothicBold.TTF);
+    src: url(BankGothic Bold.ttf);
     font-weight:400;
     color: white;
     font-size: 40px;      
 }
 h5 {
    font-family: Gothic;
-    src: url(BankGothicBold.TTF);
+    src: url(BankGothic Bold.ttf);
     font-weight:400;
     color: white;
     font-size: 40px;
